@@ -1,0 +1,15 @@
+*.iml
+/.idea/
+.gradle/
+*/build/
+*.apk
+*.aab
+*.jar
+/captures/
+.externalNativeBuild
+.cxx
+local.properties
+.DS_Store
+Thumbs.db
+# Project exclude paths
+/build/
